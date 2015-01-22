@@ -156,5 +156,23 @@ html, body {
 	height: 2%;
 	box-sizing: border-box;
 	margin: 0 auto;
+	font-family: Helvetica, sans-serif;
+	font-size: 10px;
+	color: #fff;
 }
 
+.copyright {
+	display: inline-block;
+	float: left;
+}
+
+.photo--cred {
+	display: inline-block;
+	float: right;
+}
+
+.footer__menu {
+	clear: both;
+	text-align: center;
+	padding: 10px;
+}
